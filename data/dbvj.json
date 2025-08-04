@@ -1,0 +1,22 @@
+{
+    "PAN": {
+        "kkkk": [
+            {
+                "Name": "kkkk",
+                "aut": "hhhh",
+                "genero": "6666",
+                "valora": 3333.0
+            }
+        ]
+    },
+    "VEGETALES": {
+        "ssss": [
+            {
+                "Name": "ssss",
+                "aut": "ssss",
+                "genero": "3333",
+                "valora": 3333.0
+            }
+        ]
+    }
+}
